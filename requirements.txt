@@ -1,0 +1,9 @@
+chromadb==0.4.24
+langchain==0.3.7
+langchain_community==0.3.7
+langchain_openai==0.2.9
+openai==1.55.0
+pypdf==5.1.0
+python-dotenv==1.0.1
+streamlit==1.38.0
+streamlit_chat==0.1.1
